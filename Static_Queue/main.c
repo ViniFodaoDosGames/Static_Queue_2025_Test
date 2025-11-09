@@ -1,7 +1,7 @@
 #include "Static_Queue.h"
 #include <stdio.h>
 #include <locale.h>
-
+/**
 void lista_elementos(FilaCircular* fila);
 void validacaoPonteiro(void* p);
 void validacaoFila(FilaCircular* p);
@@ -78,3 +78,4 @@ void lista_elementos(FilaCircular* fila)
     printf("\nQuantidade: %d", fila->quantidade);
     printf("\n\n");
 }
+*/
