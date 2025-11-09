@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1762725251 source:c:\users\felip\desktop\2025\graduação\estrutura de dados\static_queue_2025_test\static_queue\static_queue.c
+	"Static_Queue.h"
+	<stdio.h>
+
+1762725829 source:c:\users\felip\desktop\2025\graduação\estrutura de dados\static_queue_2025_test\static_queue\main.c
+	"Static_Queue.h"
+	<stdio.h>
+	<locale.h>
+
+1762724112 c:\users\felip\desktop\2025\graduação\estrutura de dados\static_queue_2025_test\static_queue\static_queue.h
+
